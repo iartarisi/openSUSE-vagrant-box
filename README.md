@@ -15,3 +15,5 @@ Comes with **ruby-2.0-60.1** from [devel:languages:ruby](https://build.opensuse.
   repositories were left enabled by default.
 
   The box has only **360 MB RAM** - [recommended by vagrant docs](http://docs-v1.vagrantup.com/v1/docs/base_boxes.html).
+
+If you find anything wrong with this image or have any other feedback, please use [Github Issues](https://github.com/mapleoin/openSUSE-vagrant-box/issues).
